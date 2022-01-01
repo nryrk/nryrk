@@ -1,0 +1,4 @@
+- 👋 Hi, I’m onur
+- 👀 I’m interested in (apple) software engineering in swift
+- 🌱 I’m currently enjoying the digital nomad lifestyle by working remotely and traveling through the world since 2019 💻 🌏
+- 📫 You can reach me on Twitter https://twitter.com/nryrk
