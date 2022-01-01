@@ -1,4 +1,4 @@
-## Hi There!
+## Hi There 👋
 
 my name is Onur, and I'm an iOS software engineer, nomad, indie maker, and minimalist. I am currently enjoying the digital nomad lifestyle by working remotely and traveling through the world since 2019 💻 🌏
 
