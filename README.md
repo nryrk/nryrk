@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-🎒 I am Onur, a **Software Engineer** (specializing in **Swift Applications**), and a full-time nomad, indie maker, and a minimalist from Germany. I am currently enjoying the digital nomad lifestyle by working remotely and traveling through the world since 2019. 
+🎒 I am Onur, a **Software Engineer** (specializing in **Swift Applications**), and a full-time nomad, indie maker, and a minimalist from Germany. I am currently enjoying the digital nomad lifestyle by working remotely and traveling through the world since 2019 and I have already visited 35 countries and got to know many cultures and areas.
 
-🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills
+🎸 Outside the world of tech, I enjoy pushing myself to develop new skills. I really enjoy playing acoustic guitar, which I taught myself.
 
 📚 I also love reading books on **personal-** & **indie deelopment**. My favorite one is [**MAKE**](https://makebook.io) by _Pieter Levels_
 
