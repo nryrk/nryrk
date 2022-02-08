@@ -1,8 +1,24 @@
-## Hi There 👋
+# Hi There 👋
 
-my name is Onur, and I'm an iOS software engineer, full-time nomad, indie maker, and minimalist from Germany. I am currently enjoying the digital nomad lifestyle by working remotely and traveling through the world since 2019. 👨‍💻🎒
+## 🚀 About Me
 
-Follow my [Twitter account](https://twitter.com/nryrk) where I tweet about building software in public. 🐦
+🎓 I am Onur, a **Software Engineer** (specializing in **Swift Applications**), and a full-time nomad, indie maker, and a minimalist from Germany. I am currently enjoying the digital nomad lifestyle by working remotely and traveling through the world since 2019. 👨‍💻🎒
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills
+
+📚 I also love reading books on **personal development** & **indie deelopment**. My favorite one is [**MAKE**](https://makebook.io) by _Pieter Levels_
+
+🐦 Follow my [Twitter account](https://twitter.com/nryrk) where I tweet about building software in public. 
+
+## 🛠️ Skills
+
+### Languages
+
 ![swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white)
+
+## 🔗 Links
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://todo)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/nryrk)
+[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nryrk)
+[![twitter](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nryrk)
