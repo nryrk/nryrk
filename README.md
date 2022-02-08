@@ -6,15 +6,9 @@
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills
 
-📚 I also love reading books on **personal development** & **indie deelopment**. My favorite one is [**MAKE**](https://makebook.io) by _Pieter Levels_
+📚 I also love reading books on **personal-** & **indie deelopment**. My favorite one is [**MAKE**](https://makebook.io) by _Pieter Levels_
 
 🐦 Follow my [Twitter account](https://twitter.com/nryrk) where I tweet about building software in public. 
-
-## 🛠️ Skills
-
-### Languages
-
-![swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white)
 
 ## 🔗 Links
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://todo)
