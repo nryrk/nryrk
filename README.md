@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎒 I am Onur, a **Software Engineer** (specializing in **Swift Applications**), and a full-time nomad, indie maker, and a minimalist from Germany. 
+🎒 I am Onur, a **Software Engineer** (specializing in **Swift Applications**), full-time nomad, indie maker, and a minimalist from Germany. 
 I graduated in computer science in 2019 at the University of Kassel, Germany, and have been in the software engineering industry ever since by working 100% remotely and traveling through the world since 2019. I only own what fits in my backpack and I have already visited 35 countries and got to know many cultures and areas.
 
 🎸 Outside the world of tech, I enjoy pushing myself to develop new skills. I really enjoy playing acoustic guitar, which I taught myself.
