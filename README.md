@@ -10,8 +10,3 @@ I graduated in computer science (bachelor's degree) in 2019 at the University of
 📚 I also love reading books on **personal-** & **indie development**. My favorite one is [MAKE](https://makebook.io) by _Pieter Levels_.
 
 🐦 Follow my [Twitter account](https://twitter.com/nryrk) where I tweet about building software in public. 
-
-## 🔗 Links
-[![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/developer/onur-yoeruek/id1229134345)
-[![medium](https://img.shields.io/badge/medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nryrk)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/nryrk)
