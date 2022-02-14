@@ -9,4 +9,4 @@ I graduated in computer science (bachelor's degree) in 2019 at the University of
 
 📚 I also love reading books on **personal-** & **indie development**. My favorite one is [MAKE](https://makebook.io) by _Pieter Levels_.
 
-🐦 Follow my [Twitter account](https://twitter.com/nryrk) where I tweet about building software in public. 
+🐦 Follow my [Twitter account](https://twitter.com/nryrk) where I tweet about building software in public and try living the indie hacker dream. 
