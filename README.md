@@ -12,3 +12,16 @@ I graduated in computer science (bachelor's degree) in 2019 at the University of
 📚 I also love reading books on **personal-** & **indie development**. My favorite one is [MAKE](https://makebook.io) by _Pieter Levels_.
 
 🐦 Follow my [Twitter account](https://twitter.com/nryrk) where I tweet about building software in public and try to live the indie hacker dream. 
+
+
+
+## Recent Projects
+
+* [hvv - Hamburg Bus & Bahn](https://apps.apple.com/de/app/hvv-hamburg-bus-bahn/id501995569)
+* [ZDFheute - Nachrichten](https://apps.apple.com/de/app/zdfheute-nachrichten/id605390815)
+* [ZDFmediathek](https://apps.apple.com/de/app/zdfmediathek/id437025413)
+
+## Side Projects
+
+* [Circle - Contraceptive Ring](https://apps.apple.com/us/app/circle-contraceptive-ring/id1469869691)
+* [Contraceptive Patch Reminder](https://apps.apple.com/us/app/contraceptive-patch-reminder/id1357603512)
