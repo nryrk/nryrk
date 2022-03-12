@@ -9,11 +9,9 @@ I graduated in computer science (bachelor's degree) in 2019 at the University of
 
 🎸 Outside the world of tech & travel, I enjoy pushing myself to develop new skills. I really enjoy playing acoustic guitar, which I taught myself.
 
-📚 I also love reading books on **personal-** & **indie development**. My favorite one is [MAKE](https://makebook.io) by _Pieter Levels_.
+📚 I also love reading books about **personal-** & **indie development**. My favorite one is [MAKE](https://makebook.io) by *Pieter Levels*.
 
 🐦 Follow my [Twitter account](https://twitter.com/nryrk) where I tweet about building software in public and try to live the indie hacker dream. 
-
-
 
 ## Recent Projects
 
