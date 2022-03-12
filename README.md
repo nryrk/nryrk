@@ -1,7 +1,7 @@
 # About Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40nryrk-239a3b.svg)](https://github.com/nryrk)
-[![Twitter](https://img.shields.io/badge/Twitter-%40nryrk58a1f2.svg)](https://twitter.com/nryrk)
+[![Twitter](https://img.shields.io/badge/Twitter-%40nryrk-58a1f2.svg)](https://twitter.com/nryrk)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/onur-y/)
 
 🎒 I am Onur, a **Software Engineer** (specializing in **Swift Applications**), full-time nomad and a minimalist from Germany. 
