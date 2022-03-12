@@ -23,5 +23,6 @@ I graduated in computer science (bachelor's degree) in 2019 at the University of
 
 ## Side Projects
 
+* *Shark - Under Construction*
 * [Circle - Contraceptive Ring](https://apps.apple.com/us/app/circle-contraceptive-ring/id1469869691)
 * [Contraceptive Patch Reminder](https://apps.apple.com/us/app/contraceptive-patch-reminder/id1357603512)
