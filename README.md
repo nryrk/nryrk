@@ -31,7 +31,7 @@ I've worked as a employee on several apps. A selection of these are listed below
   * Setup Xcode Build-Configurations
   * Tracking-Extensions
   * Bugfixes
-* [ZDFmediathek](https://apps.apple.com/de/app/zdfmediathek/id437025413) *(iOS, tvOS)*
+* [ZDFmediathek](https://apps.apple.com/de/app/zdfmediathek/id437025413) *(iOS, iPadOS, tvOS)*
   * UI-Implementations
   * Supporting german sign language options in ZDFmediathek tvOS-Application
   * Bugfixes
