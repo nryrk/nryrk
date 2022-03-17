@@ -18,12 +18,16 @@ I graduated in computer science (bachelor's degree) in 2019 at the University of
 I've worked as a employee on several apps. A selection of these are listed below.
 
 * [hvv - Public Transport Hamburg](https://apps.apple.com/de/app/hvv-hamburg-bus-bahn/id501995569)
-   * Navigation
-* [ZDFheute - Nachrichten](https://apps.apple.com/de/app/zdfheute-nachrichten/id605390815) - News
-* [ZDFmediathek](https://apps.apple.com/de/app/zdfmediathek/id437025413) - Entertainment
+  * Navigation
+* [ZDFheute - Nachrichten](https://apps.apple.com/de/app/zdfheute-nachrichten/id605390815) 
+  * News
+* [ZDFmediathek](https://apps.apple.com/de/app/zdfmediathek/id437025413) 
+  * Entertainment
 
 ## Side Projects
 
 * *Shark - Under Construction*
-* [Circle - Contraceptive Ring](https://apps.apple.com/us/app/circle-contraceptive-ring/id1469869691) - Medical 
-* [Contraceptive Patch Reminder](https://apps.apple.com/us/app/contraceptive-patch-reminder/id1357603512) - Medical
+* [Circle - Contraceptive Ring](https://apps.apple.com/us/app/circle-contraceptive-ring/id1469869691) 
+  * Medical 
+* [Contraceptive Patch Reminder](https://apps.apple.com/us/app/contraceptive-patch-reminder/id1357603512) 
+  * Medical
