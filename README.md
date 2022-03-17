@@ -17,30 +17,30 @@ I graduated in computer science (bachelor's degree) in 2019 at the University of
 
 I've worked as a employee on several apps. A selection of these are listed below.
 
-* [hvv - Public Transport Hamburg](https://apps.apple.com/de/app/hvv-hamburg-bus-bahn/id501995569) *iOS*
+* [hvv - Public Transport Hamburg](https://apps.apple.com/de/app/hvv-hamburg-bus-bahn/id501995569) *(iOS)*
   * UI-Implementations
   * Presenting schedule informations
   * Error states
   * Skeleton loader
   * Mapbox integration
   * Bugfixes
-* [ZDFheute - Nachrichten](https://apps.apple.com/de/app/zdfheute-nachrichten/id605390815) *iOS, iPadOS, watchOS*
+* [ZDFheute - Nachrichten](https://apps.apple.com/de/app/zdfheute-nachrichten/id605390815) *(iOS, iPadOS, watchOS)*
   * UI-Implementations
   * iOS 14 Widget in SwiftUI
   * Apple Watch App in SwiftUI
   * Setup Xcode Build-Configurations
   * Tracking-Extensions
   * Bugfixes
-* [ZDFmediathek](https://apps.apple.com/de/app/zdfmediathek/id437025413) *iOS, tvOS*
+* [ZDFmediathek](https://apps.apple.com/de/app/zdfmediathek/id437025413) *(iOS, tvOS)*
   * UI-Implementations
   * Supporting german sign language options in ZDFmediathek tvOS-Application
   * Bugfixes
 
 ## Side Projects
 
-* [Circle - Contraceptive Ring](https://apps.apple.com/us/app/circle-contraceptive-ring/id1469869691)  *iOS, iPadOS*
+* [Circle - Contraceptive Ring](https://apps.apple.com/us/app/circle-contraceptive-ring/id1469869691)  *(iOS, iPadOS)*
   * Personal Side Project
   * Implemented the whole iOS App from scratch until the App Store submission
-* [Contraceptive Patch Reminder](https://apps.apple.com/us/app/contraceptive-patch-reminder/id1357603512) *iOS, iPadOS*
+* [Contraceptive Patch Reminder](https://apps.apple.com/us/app/contraceptive-patch-reminder/id1357603512) *(iOS, iPadOS)*
   * Personal Side Project
   * Implemented the whole iOS App from scratch until the App Store submission
