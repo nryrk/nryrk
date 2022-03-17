@@ -42,7 +42,7 @@ I've worked as a employee on several apps. A selection of these are listed below
 ## Side Projects
 
 * *Shark* *(macOS)*
-  * Under Construction
+  * 🚧 Under Construction
 
 * [Circle - Contraceptive Ring](https://apps.apple.com/us/app/circle-contraceptive-ring/id1469869691)  *(iOS, iPadOS)*
   * Personal Side Project
