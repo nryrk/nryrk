@@ -23,6 +23,7 @@ I've worked as a employee on several apps. A selection of these are listed below
   * Error states
   * Skeleton loader
   * Mapbox integration
+  * Unit-Tests
   * Bugfixes
 * [ZDFheute - Nachrichten](https://apps.apple.com/de/app/zdfheute-nachrichten/id605390815) *(iOS, iPadOS, watchOS)*
   * UI-Implementations
@@ -30,10 +31,12 @@ I've worked as a employee on several apps. A selection of these are listed below
   * Apple Watch App in SwiftUI
   * Setup Xcode Build-Configurations
   * Tracking-Extensions
+  * Unit-Tests
   * Bugfixes
 * [ZDFmediathek](https://apps.apple.com/de/app/zdfmediathek/id437025413) *(iOS, iPadOS, tvOS)*
   * UI-Implementations
   * Supporting german sign language options in ZDFmediathek tvOS-Application
+  * Unit-Tests
   * Bugfixes
 
 ## Side Projects
