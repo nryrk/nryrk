@@ -17,7 +17,8 @@ I graduated in computer science (bachelor's degree) in 2019 at the University of
 
 I've worked as a employee on several apps. A selection of these are listed below.
 
-* [hvv - Public Transport Hamburg](https://apps.apple.com/de/app/hvv-hamburg-bus-bahn/id501995569) - Navigation
+* [hvv - Public Transport Hamburg](https://apps.apple.com/de/app/hvv-hamburg-bus-bahn/id501995569)
+  ** Navigation
 * [ZDFheute - Nachrichten](https://apps.apple.com/de/app/zdfheute-nachrichten/id605390815) - News
 * [ZDFmediathek](https://apps.apple.com/de/app/zdfmediathek/id437025413) - Entertainment
 
