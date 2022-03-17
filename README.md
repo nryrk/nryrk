@@ -38,7 +38,6 @@ I've worked as a employee on several apps. A selection of these are listed below
 
 ## Side Projects
 
-* *Shark - Under Construction*
 * [Circle - Contraceptive Ring](https://apps.apple.com/us/app/circle-contraceptive-ring/id1469869691) 
   * Personal Side Project
   * Implemented the whole iOS App from scratch until the App Store submission
