@@ -39,6 +39,11 @@ I've worked as a employee on several apps. A selection of these are listed below
   * Unit-Tests
   * Bugfixes
 
+* [GetMyInvoices](https://apps.apple.com/us/app/getmyinvoices/id1453029146) *(iOS)*
+  * Networking
+  * Persistence
+  * UI + Presentation
+
 ## Side Projects
 
 * *Shark* *(macOS)*
