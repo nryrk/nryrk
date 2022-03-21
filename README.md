@@ -42,7 +42,7 @@ I've worked as a employee on several apps. A selection of these are listed below
 * [GetMyInvoices](https://apps.apple.com/us/app/getmyinvoices/id1453029146) *(iOS)*
   * Networking
   * Persistence
-  * UI + Presentation
+  * UI + Presentation incl. Scanbot SDK integration
 
 ## Side Projects
 
