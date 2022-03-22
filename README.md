@@ -18,15 +18,16 @@ I graduated in computer science (bachelor's degree) in 2019 at the University of
 I've worked as a employee on several apps. A selection of these are listed below.
 
 * [hvv - Public Transport Hamburg](https://apps.apple.com/us/app/hvv-hamburg-bus-bahn/id501995569) *(iOS)*
-  * UI-Implementations
-  * Presenting schedule informations
+  * Networking 
+  * UI + Presentation
   * Error states
   * Skeleton loader
-  * Mapbox integration
+  * Mapbox SDK integration
   * Unit-Tests
   * Bugfixes
 * [ZDFheute - Nachrichten](https://apps.apple.com/us/app/zdfheute-nachrichten/id605390815) *(iOS, iPadOS, watchOS)*
-  * UI-Implementations
+  * Networking 
+  * UI + Presentation
   * iOS 14 Widget in SwiftUI
   * Apple Watch App in SwiftUI
   * Setup Xcode Build-Configurations
@@ -34,7 +35,7 @@ I've worked as a employee on several apps. A selection of these are listed below
   * Unit-Tests
   * Bugfixes
 * [ZDFmediathek](https://apps.apple.com/us/app/zdfmediathek/id437025413) *(iOS, iPadOS, tvOS)*
-  * UI-Implementations
+  * UI + Presentation
   * Supporting german sign language options in ZDFmediathek tvOS-Application
   * Unit-Tests
   * Bugfixes
@@ -43,6 +44,8 @@ I've worked as a employee on several apps. A selection of these are listed below
   * Networking
   * Persistence
   * UI + Presentation incl. Scanbot SDK integration
+  * Unit-Tests
+  * Bugfixes
 
 ## Side Projects
 
