@@ -19,17 +19,15 @@ I've worked as a employee on several apps. A selection of these are listed below
 
 * [hvv - Public Transport Hamburg](https://apps.apple.com/us/app/hvv-hamburg-bus-bahn/id501995569) *(iOS)*
   * Networking 
-  * UI + Presentation
+  * UI + Presentation incl. Mapbox SDK integration
   * Error states
-  * Skeleton loader
-  * Mapbox SDK integration
   * Unit-Tests
   * Bugfixes
 * [ZDFheute - Nachrichten](https://apps.apple.com/us/app/zdfheute-nachrichten/id605390815) *(iOS, iPadOS, watchOS)*
   * Networking 
   * UI + Presentation
   * iOS 14 Widget in SwiftUI
-  * Apple Watch App in SwiftUI
+  * watchOS App in SwiftUI
   * Setup Xcode Build-Configurations
   * Tracking-Extensions
   * Unit-Tests
