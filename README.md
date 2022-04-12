@@ -50,9 +50,10 @@ I've worked as a employee on several apps. A selection of these are listed below
 * *Shark* *(macOS)*
   * 🚧 Under Construction
 
-* [Circle - Contraceptive Ring](https://apps.apple.com/us/app/circle-contraceptive-ring/id1469869691)  *(iOS, iPadOS)*
-  * Personal Side Project
-  * Implemented the whole iOS App from scratch until the App Store submission
 * [Contraceptive Patch Reminder](https://apps.apple.com/us/app/contraceptive-patch-reminder/id1357603512) *(iOS, iPadOS)*
-  * Personal Side Project
+  * Second Personal Side Project
+  * Implemented the whole iOS App from scratch until the App Store submission
+
+* [Circle - Contraceptive Ring](https://apps.apple.com/us/app/circle-contraceptive-ring/id1469869691)  *(iOS, iPadOS)*
+  * First Personal Side Project
   * Implemented the whole iOS App from scratch until the App Store submission
