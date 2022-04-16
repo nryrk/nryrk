@@ -57,3 +57,7 @@ I've worked as a employee on several apps. A selection of these are listed below
 * [Circle - Contraceptive Ring](https://apps.apple.com/us/app/circle-contraceptive-ring/id1469869691)  *(iOS, iPadOS)*
   * First Personal Side Project
   * Implemented the whole iOS App from scratch until the App Store submission
+
+## Licenses & certifications
+* Essential Developer Certificate · Essential Developer Academy by Caio & Mike · Issued Mar 2022
+
