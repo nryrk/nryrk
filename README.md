@@ -61,3 +61,6 @@ I've worked as a employee on several apps. A selection of these are listed below
 ## Licenses & certifications
 * Essential Developer Certificate · Essential Developer Academy by Caio & Mike · Issued Mar 2022
 
+## Visited Countries
+🇩🇪🇮🇹🇸🇲🇨🇭🇲🇨🇪🇸🇦🇹🇹🇷🇨🇿🇮🇩🇲🇾🇹🇭🇻🇳🇸🇬🇧🇳🇵🇭🇹🇼🇯🇵🇰🇷🇳🇱🇭🇺🇸🇰🇩🇰🇸🇪🇵🇱🇱🇹🇱🇻🇪🇪🇫🇮🇧🇪🇵🇦🇨🇷🇬🇹🇲🇽🇺🇸🇦🇺🇨🇦🇿🇦🇦🇪🇳🇴🏴󠁧󠁢󠁥󠁮󠁧󠁿🇱🇺
+
