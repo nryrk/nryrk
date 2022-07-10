@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0e76a8.svg)](https://www.linkedin.com/in/onur-y/)
 
 🎒 I am Onur, a **Software Engineer** (specialized in **Swift Applications**), full-time nomad and a minimalist from Germany. 
-I graduated in computer science (bachelor's degree) in 2019 at the University of Kassel, Germany, and have been in the software engineering industry ever since by working 100% remotely. I travel through the world since 2019 next to my work and I only own what fits in my backpack. I have visited 40+ countries so far and got to know many cultures and areas.
+I graduated in computer science (bachelor's degree) in 2019 at the University of Kassel, Germany, and have been in the software engineering industry ever since by working 100% remotely. I travel through the world since 2019 next to my work and I only own what fits in my backpack. I have visited 40+ countries so far and got to know many cultures and areas. Overcoming changes and challenges is wired in me.
 
 🎸 Outside the world of tech & travel, I enjoy pushing myself to develop new skills. I really enjoy playing acoustic guitar, which I taught myself.
 
@@ -60,7 +60,4 @@ I've worked as a employee on several apps. A selection of these are listed below
 
 ## Licenses & certifications
 * Essential Developer Certificate · Essential Developer Academy by Caio & Mike · Issued Mar 2022
-
-## Visited Countries
-🇩🇪🇮🇹🇸🇲🇨🇭🇲🇨🇪🇸🇦🇹🇹🇷🇨🇿🇮🇩🇲🇾🇹🇭🇻🇳🇸🇬🇧🇳🇵🇭🇹🇼🇯🇵🇰🇷🇳🇱🇭🇺🇸🇰🇩🇰🇸🇪🇵🇱🇱🇹🇱🇻🇪🇪🇫🇮🇧🇪🇵🇦🇨🇷🇬🇹🇲🇽🇺🇸🇦🇺🇨🇦🇿🇦🇦🇪🇳🇴🏴󠁧󠁢󠁥󠁮󠁧󠁿🇱🇺
 
