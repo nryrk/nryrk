@@ -21,6 +21,7 @@ I've worked as a employee on several apps. A selection of these are listed below
   * Networking 
   * UI + Presentation incl. Mapbox SDK integration
   * Error states
+  * Tracking-System
   * Unit-Tests
   * Bugfixes
 * [ZDFheute - Nachrichten](https://apps.apple.com/us/app/zdfheute-nachrichten/id605390815) *(iOS, iPadOS, watchOS)*
@@ -29,7 +30,7 @@ I've worked as a employee on several apps. A selection of these are listed below
   * iOS 14 Widget in SwiftUI
   * watchOS App in SwiftUI
   * Setup Xcode Build-Configurations
-  * Tracking-Extensions
+  * Tracking-System
   * Unit-Tests
   * Bugfixes
 * [ZDFmediathek](https://apps.apple.com/us/app/zdfmediathek/id437025413) *(iOS, iPadOS, tvOS)*
