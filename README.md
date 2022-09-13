@@ -7,7 +7,7 @@
 💻 I am Onur, a Software Engineer from Germany with more than 4 years of professional experience in app development.
 I am currently working for a digital agency in Germany called FFW Agency, which develops native iOS applications in Swift for well-known german clients. I can proudly say that I build applications in a team that have been downloaded millions of times. 
 In my past projects I mainly used the MVVM architecture. However, Through side projects and courses from my bachelor's degree in computer science, I also have experience in MVC and MVP. I prefer supporting the last two iOS versions, which allows me to use the latest Apple technologies and APIs such as Async/Await and Combine in my daily work. 
-In my last project assigned by my employer I was responsible for the network layer, user interface in UIKit including the Mapbox SDK integration and the tracking system with Firebase. 
+In my last project assigned by my employer I was responsible for the network layer, user interface in UIKit including the Mapbox SDK integration and the In-App tracking system with Firebase. 
 I discovered my love for Test Driven Development when I acquired my "iOS Lead Essentials" certificate, which I received in March 2022.
 
 🎒 I travel through the world since 2019 next to my work and I only own what fits in my backpack. I've now explored over 40 countries and got to know many cultures and areas. Overcoming changes and challenges is wired in me.
