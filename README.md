@@ -53,7 +53,7 @@ I've worked as a employee on several apps. A selection of these are listed below
 
 ## Side Projects
 
-* *Measure* *(iOS, iPadOS, watchOS, macOS)*
+* *Measure* *(iOS)*
   * 🚧 Under Construction
 
 * *LouLou* *(iOS, iPadOS, watchOS)*
