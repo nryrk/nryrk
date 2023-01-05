@@ -53,17 +53,14 @@ I've worked as a employee on several apps. A selection of these are listed below
 
 ## Side Projects
 
-* *Measure* *(iOS)*
-  * 🚧 Under Construction
-
-* *LouLou* *(iOS, iPadOS, watchOS)*
+* *MastMagic* *(macOS)*
   * 🚧 Under Construction
 
 * [Contraceptive Patch Reminder](https://apps.apple.com/us/app/contraceptive-patch-reminder/id1357603512) *(iOS, iPadOS)*
   * Second Personal Side Project
   * Implemented the whole iOS App from scratch until the App Store submission
 
-* [Circle - Contraceptive Ring](https://apps.apple.com/us/app/circle-contraceptive-ring/id1469869691)  *(iOS, iPadOS)*
+* [LouLou - Contraceptive Ring](https://apps.apple.com/us/app/circle-contraceptive-ring/id1469869691)  *(iOS, iPadOS)*
   * First Personal Side Project
   * Implemented the whole iOS App from scratch until the App Store submission
 
