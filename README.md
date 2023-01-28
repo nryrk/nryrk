@@ -16,7 +16,7 @@ I discovered my love for Test Driven Development when I acquired my "iOS Lead Es
 
 📚 I also love reading books about personal- & indie development. My favorite one is MAKE by Pieter Levels.
 
-🐦 Follow my [Twitter account](https://twitter.com/nryrk) where I tweet about building software in public and try to live the indie hacker dream. 
+🐘 Follow my [Mastodon account](https://mastodon.social/@onuryrk) where I post about building software in public and try to live the indie hacker dream. 
 
 ## Apps I Contributed To
 
