@@ -1,7 +1,7 @@
 # About Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40nryrk-171515.svg)](https://github.com/nryrk)
-[![Mastodon]([https://img.shields.io/badge/Twitter-%40nryrk-00acee.svg](https://your.mastodon.server/api/salmon/{your-user-id}))](https://mastodon.social/@onuryrk)
+[![Mastodon](https://img.shields.io/badge/Mastodon-%40onuryrk-%235648d3)](https://mastodon.social/@onuryrk)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0e76a8.svg)](https://www.linkedin.com/in/onur-y/)
 
 💻 I am Onur, a Software Engineer from Germany with more than 4 years of professional experience in app development.
