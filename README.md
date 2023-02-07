@@ -53,7 +53,7 @@ I've worked as a employee on several apps. A selection of these are listed below
 
 ## Side Projects
 
-* *Boost* *(iOS, macOS)*
+* *Boost* *(macOS)*
   * 🚧 Under Construction
 
 * [Contraceptive Patch Reminder](https://apps.apple.com/us/app/contraceptive-patch-reminder/id1357603512) *(iOS, iPadOS)*
