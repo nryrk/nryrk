@@ -22,6 +22,14 @@ I discovered my love for Test Driven Development when I acquired my "iOS Lead Es
 
 I've worked as a employee on several apps. A selection of these are listed below.
 
+* [hvv switch – Mobility for you](https://apps.apple.com/us/app/hvv-switch-mobility-for-you/id1489283392) *(iOS)*
+  * Networking
+  * Location Manager
+  * Car-/Bikesharing
+  * UI + Presentation incl. Mapbox SDK integration
+  * Unit-Tests
+  * Bugfixes
+
 * [hvv - Public Transport Hamburg](https://apps.apple.com/us/app/hvv-hamburg-bus-bahn/id501995569) *(iOS)*
   * Networking 
   * UI + Presentation incl. Mapbox SDK integration
