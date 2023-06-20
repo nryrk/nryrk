@@ -26,7 +26,6 @@ I've worked as a employee on several apps. A selection of these are listed below
   * Networking
   * Location Manager
   * Car-/Bikesharing
-  * UI + Presentation incl. Mapbox SDK integration
   * Unit-Tests
   * Bugfixes
 
