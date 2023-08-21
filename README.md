@@ -60,9 +60,6 @@ I've worked as a employee on several apps. A selection of these are listed below
 
 ## Side Projects
 
-* *budlr* *(iOS, macOS)*
-  * 🚧 Under Construction
-
 * [Contraceptive Patch Reminder](https://apps.apple.com/us/app/contraceptive-patch-reminder/id1357603512) *(iOS, iPadOS)*
   * Second Personal Side Project
   * Implemented the whole iOS App from scratch until the App Store submission
