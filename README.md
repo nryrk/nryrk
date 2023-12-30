@@ -4,10 +4,10 @@
 [![Mastodon](https://img.shields.io/badge/Mastodon-%40onuryrk-%235648d3)](https://mastodon.social/@onuryrk)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0e76a8.svg)](https://www.linkedin.com/in/onur-y/)
 
-💻 I am Onur, a Software Engineer from Germany with more than 5 years of professional experience in app development.
+💻 I am Onur, a Software Engineer from Germany with more than 6 years of professional experience in app development.
 I am currently working for a digital agency in Germany called FFW Agency, which develops native iOS applications in Swift for well-known German clients. I can proudly say that I build applications in a team that have been downloaded millions of times. 
 In my past projects I mainly used the MVVM architecture. However, Through side projects and courses from my bachelor's degree in computer science, I also collected experience in MVC and MVP. I prefer supporting the last two iOS versions, which allows me to use the latest Apple technologies and APIs such as Async/Await and Combine in my daily work. 
-In my last project assigned by my employer I was responsible for the network layer, user interface in UIKit including the Mapbox SDK integration and the In-App tracking system with Firebase. 
+In my last project assigned by my employer I was responsible for architecting the project using MVVM+Interactor, implementing Kotlin Multiplatform library communication and managing the CI/CD implementation using Xcode Cloud.
 I discovered my love for Test Driven Development when I acquired my "iOS Lead Essentials" certificate, which I received in March 2022.
 
 🎒 I travel through the world since 2019 next to my work and I only own what fits in my backpack. I've now explored 45 countries and got to know many cultures and areas. Overcoming changes and challenges is wired in me.
@@ -21,6 +21,21 @@ I discovered my love for Test Driven Development when I acquired my "iOS Lead Es
 ## Apps I Contributed To
 
 I've worked as a employee on several apps. A selection of these are listed below.
+
+* [ZDFmediathek](https://apps.apple.com/us/app/zdfmediathek/id437025413) *(iOS, iPadOS, tvOS)*
+  * Architecting the project using MVVM+Interactor,
+  * Implementing Kotlin Multiplatform Library Communication,
+  * Managing CI/CD implementation using Xcode Cloud.
+
+* [ZDFheute - Nachrichten](https://apps.apple.com/us/app/zdfheute-nachrichten/id605390815) *(iOS, iPadOS, watchOS)*
+  * Networking 
+  * UI + Presentation
+  * iOS 14 Widget in SwiftUI
+  * watchOS App in SwiftUI
+  * Setup Xcode Build-Configurations
+  * Tracking-System
+  * Unit-Tests
+  * Bugfixes
 
 * [hvv switch – Mobility for you](https://apps.apple.com/us/app/hvv-switch-mobility-for-you/id1489283392) *(iOS)*
   * Networking
@@ -36,20 +51,6 @@ I've worked as a employee on several apps. A selection of these are listed below
   * Tracking-System
   * Unit-Tests
   * Bugfixes
-* [ZDFheute - Nachrichten](https://apps.apple.com/us/app/zdfheute-nachrichten/id605390815) *(iOS, iPadOS, watchOS)*
-  * Networking 
-  * UI + Presentation
-  * iOS 14 Widget in SwiftUI
-  * watchOS App in SwiftUI
-  * Setup Xcode Build-Configurations
-  * Tracking-System
-  * Unit-Tests
-  * Bugfixes
-* [ZDFmediathek](https://apps.apple.com/us/app/zdfmediathek/id437025413) *(iOS, iPadOS, tvOS)*
-  * UI + Presentation
-  * Supporting german sign language options in ZDFmediathek tvOS-Application
-  * Unit-Tests
-  * Bugfixes
 
 * [GetMyInvoices](https://apps.apple.com/us/app/getmyinvoices/id1453029146) *(iOS)*
   * Networking
@@ -59,6 +60,10 @@ I've worked as a employee on several apps. A selection of these are listed below
   * Bugfixes
 
 ## Side Projects
+
+* [Budlr](https://apps.apple.com/us/developer/onur-yoeruek/id1229134345)  *(Under Construction 🚧)*
+  * Third Personal Side Project
+  * Implemented the whole iOS App from scratch until the App Store submission
 
 * [Contraceptive Patch Reminder](https://apps.apple.com/us/app/contraceptive-patch-reminder/id1357603512) *(iOS, iPadOS)*
   * Second Personal Side Project
