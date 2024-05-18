@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0e76a8.svg)](https://www.linkedin.com/in/onur-y/)
 
 💻 I am Onur, a Software Engineer from Germany with more than 6 years of professional experience in app development.
-I am currently working for a digital agency in Germany called FFW Agency, which develops native iOS applications in Swift for well-known German clients. I can proudly say that I build applications in a team that have been downloaded millions of times. 
+I am currently working for a digital agency in Germany called JAKALA, which develops native iOS applications in Swift for well-known German clients. I can proudly say that I build applications in a team that have been downloaded millions of times. 
 In my past projects I mainly used the MVVM architecture. However, Through side projects and courses from my bachelor's degree in computer science, I also collected experience in MVC and MVP. I prefer supporting the last two iOS versions, which allows me to use the latest Apple technologies and APIs such as Async/Await and Combine in my daily work. 
 In my last project assigned by my employer I was responsible for architecting the project using MVVM+Interactor, implementing Kotlin Multiplatform library communication and managing the CI/CD implementation using Xcode Cloud.
 I discovered my love for Test Driven Development when I acquired my "iOS Lead Essentials" certificate, which I received in March 2022.
