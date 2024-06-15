@@ -61,7 +61,7 @@ I've worked as a employee on several apps. A selection of these are listed below
 
 ## Side Projects
 
-* [Budlr](https://apps.apple.com/us/developer/onur-yoeruek/id1229134345)  *(Under Construction 🚧)*
+* [Foosball](https://apps.apple.com/us/developer/onur-yoeruek/id1229134345)  *(Under Construction 🚧)*
   * Third Personal Side Project
 
 * [Contraceptive Patch Reminder](https://apps.apple.com/us/app/contraceptive-patch-reminder/id1357603512) *(iOS, iPadOS)*
