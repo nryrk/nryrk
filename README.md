@@ -61,8 +61,12 @@ I've worked as a employee on several apps. A selection of these are listed below
 
 ## Side Projects
 
-* [Foosball](https://apps.apple.com/us/developer/onur-yoeruek/id1229134345)  *(Under Construction 🚧)*
+* [Wormhole](https://apps.apple.com/us/developer/onur-yoeruek/id1229134345)  *(Under Construction 🚧)*
+  * Fourth Personal Side Project
+
+* [Foosball](https://apps.apple.com/de/app/foosball-tischfu%C3%9Fball/id6610299103)  *(iOS)*
   * Third Personal Side Project
+  * Implemented the whole iOS App from scratch until the App Store submission
 
 * [Contraceptive Patch Reminder](https://apps.apple.com/us/app/contraceptive-patch-reminder/id1357603512) *(iOS, iPadOS)*
   * Second Personal Side Project
